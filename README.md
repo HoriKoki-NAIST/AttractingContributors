@@ -24,3 +24,4 @@ Please write the name of the console you use the most!
 - Switch
 - iPhone
 - Gaming PC
+- Nintendo Switch
